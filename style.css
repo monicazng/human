@@ -106,4 +106,18 @@ footer .navbar-brand {
   #hero .link {
     color: white;
   }
+
+  .card {
+    width: 100%;
+    flex: none;
+    margin: 0;
+  }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+  .card {
+    width: 100%;
+    flex: none !important;
+    margin: 0;
+  }
 }
