@@ -29,7 +29,7 @@
 }
 
 p, li {
-  font-family: 'Encode Sans', thin;
+  font-family: 'Encode Sans', sans-serif;
   font-size: 1.25rem;
 }
 
@@ -60,7 +60,7 @@ p, li {
 }
 
 #hero h1 {
-  font-family: 'Encode Sans', thin;
+  font-family: 'Encode Sans', sans-serif;
 }
 
 #div {
