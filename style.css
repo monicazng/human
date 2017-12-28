@@ -30,7 +30,7 @@
 
 p, li {
   font-family: 'Encode Sans', sans-serif;
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 
 .link {
@@ -53,6 +53,10 @@ p, li {
   top: 7.5rem;
   color: white;
   text-align: center;
+}
+
+h1 {
+  font-size: 2rem;
 }
 
 #hero h1 {
