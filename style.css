@@ -13,11 +13,16 @@
 }
 
 .navbar-brand {
-  font-size: 2rem;
   position: absolute;
   top: 0;
+  bottom: 0;
   left: 50%;
   transform: translateX(-50%);
+  background-image: url(rsc/logo.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  width: 128px;
 }
 
 .navbar-nav {
